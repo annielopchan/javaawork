@@ -22,6 +22,7 @@ public class workshop3
         System.out.println(workshop3.qty);
         
         System.out.println("Thisisthirdweekofprogramming");
+        System.out.println("Javaworkshop");
     }
 
 }
